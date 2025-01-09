@@ -99,7 +99,7 @@ A full-stack Task Manager application built with Node.js, Express.js, MongoDB, a
 ### Authentication
 
 - The application uses JWT (JSON Web Token) for user authentication.
-- After registering or logging in, the server sends a JWT token, which should be saved in the local storage of the frontend.
+- After registering or logging in, the server sends a JWT token, which is saved in the local storage of the frontend.
 - The token is sent with API requests to authorize the user.
 
 ## Usage
@@ -112,18 +112,13 @@ A full-stack Task Manager application built with Node.js, Express.js, MongoDB, a
 
 ## Deployment
 
-The application is hosted live on:
-
-- **Frontend**: [https://your-frontend-url.com](https://your-frontend-url.com)
-- **Backend**: [https://your-backend-url.com](https://your-backend-url.com)
-
-You can deploy the backend to platforms like Heroku, DigitalOcean, or AWS, and the frontend to platforms like Vercel, Netlify, or GitHub Pages.
+The application is not hosted because i do not know very well how to do this also i do not have a domain
 
 ## Demo Video
 
 Watch the demo video showcasing the functionality of the Task Manager application:
 
-[Demo Video Link](https://your-demo-video-link.com)
+[Demo Video Link]([https://your-demo-video-link.com](https://drive.google.com/file/d/1TPhUFfvz2FulcdXjZvV09Y96rOrD6hue/view?usp=sharing))
 
 ## Code Structure
 
