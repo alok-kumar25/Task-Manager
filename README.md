@@ -39,7 +39,7 @@ A full-stack Task Manager application built with Node.js, Express.js, MongoDB, a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/task-manager.git
+    git clone https://github.com/alok-kumar25/task-manager
     cd task-manager
     ```
 
@@ -53,8 +53,9 @@ A full-stack Task Manager application built with Node.js, Express.js, MongoDB, a
 3. Create a `.env` file in the `server` directory and add the following environment variables:
 
     ```env
-    MONGO_URI=your_mongo_db_connection_string
-    JWT_SECRET=your_jwt_secret
+    MONGODB_URI=mongodb+srv://user1:s5HLxSSjfcnmswzv@cluster1.dl3du.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
+    JWT_SECRET=JWT_SECRET=f4d029b6aeb58da94bc2173d8dbeb87ac8d912d33f8a6e47c9f1bda4a785a3f0cf2f4d029b6aeb58da94bc2173d8dbeb87ac8d912d33f8a6e47c9f1bda4a785a3f0cf2
+    PORT=5000
     ```
 
 4. Run the backend server:
