@@ -118,7 +118,7 @@ The application is not hosted because i do not know very well how to do this als
 
 Watch the demo video showcasing the functionality of the Task Manager application:
 
-[Demo Video Link]([https://your-demo-video-link.com](https://drive.google.com/file/d/1TPhUFfvz2FulcdXjZvV09Y96rOrD6hue/view?usp=sharing))
+[Demo Video Link]([https://drive.google.com/file/d/1TPhUFfvz2FulcdXjZvV09Y96rOrD6hue/view?usp=sharing])
 
 ## Code Structure
 
